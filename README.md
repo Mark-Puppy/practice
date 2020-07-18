@@ -1,1 +1,1 @@
-# practice-site
+# practice-site Автоматизировання штукатурка стен
