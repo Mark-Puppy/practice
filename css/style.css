@@ -319,6 +319,11 @@ main {
   margin-top: 3rem;
   font-size: 1.4rem;
 }
+.feedback-slider .media-left img {
+  width: 7rem;
+  height: 5rem;
+  border-radius: 50%;
+}
 .feedback-slider .media h4 {
   font-family: 'ProximaNova_bold', sans-serif;
 }
